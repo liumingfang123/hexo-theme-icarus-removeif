@@ -13,9 +13,9 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://removeif.github.io
+url: https://liumingfang123.github.io/hexo-theme-icarus-removeif
 #root: /remove.io/
-root: /
+root: /hexo-theme-icarus-removeif
 # 可选 permalink: abbrlink 短链接模式
 # permalink: :title.html #文章的url 如 http://localhost:4000/theme/博客源码分享.html 格式   :year/:month/:day/:title/
 permalink: posts/:abbrlink/ #文章的永久链接 或者 permalink: posts/:abbrlink.html 如：http://localhost:4000/post/abaf7e89.html
